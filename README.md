@@ -4,16 +4,6 @@ A lightweight **CodePen-inspired online code editor** built with **React** and *
 
 ---
 
-## 📸 Project Preview
-
-Example:
-
-```md
-![Project Screenshot](codepen-clone.png)
-```
-
----
-
 # ✨ Features
 
 - 📝 Separate editors for HTML, CSS, and JavaScript
