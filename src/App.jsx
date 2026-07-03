@@ -13,23 +13,23 @@ export default function App() {
   useEffect(() => {
     const timeout = setTimeout(() => {
       setSrcDoc(`
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-${css}
-</style>
-</head>
-<body>
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <style>
+              ${css}
+            </style>
+          </head>
+        <body>
 
-${html}
+          ${html}
 
-<script>
-${js}
-</script>
+        <script>
+          ${js}
+        </script>
 
-</body>
-</html>
+        </body>
+        </html>
       `);
     }, 250);
 
