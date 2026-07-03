@@ -9,7 +9,7 @@ A lightweight **CodePen-inspired online code editor** built with **React** and *
 Example:
 
 ```md
-![Project Screenshot](/src/assets/codepen-clone.png)
+![Project Screenshot](./public/codepen-clone.png)
 ```
 
 ---
