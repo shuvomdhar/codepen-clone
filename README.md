@@ -6,12 +6,10 @@ A lightweight **CodePen-inspired online code editor** built with **React** and *
 
 ## 📸 Project Preview
 
-> **Add your project screenshot here**
-
 Example:
 
 ```md
-![Project Screenshot](./src/assets/codepen-clone.png)
+![Project Screenshot](/src/assets/codepen-clone.png)
 ```
 
 ---
